@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.2)
 #for visual studio
 if(MSVC) 
     add_compile_options(/W4) #set warning level to 4
